@@ -19,6 +19,7 @@ namespace DotNetCoreKoans.Koans
                 typeof(AboutMethods),
                 typeof(AboutControlStatements),
                 typeof(AboutGenericContainers),
+                typeof(AboutDelegates),
                 typeof(AboutLambdas),
                 typeof(AboutLinq),
         typeof(AboutBitwiseAndShiftOperator)
@@ -27,6 +28,6 @@ namespace DotNetCoreKoans.Koans
                 // https://github.com/dotnet/coreclr/blob/master/src/mscorlib/src/System/Array.cs#L1005
                 //typeof(AboutDelegates)
                 };
-        } 
+        }
     }
 }
